@@ -8,12 +8,12 @@ Given the input string: sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop , the output
 * Text: defggfed, Index: 13, Length: 8
 * Text: abccba, Index: 5 Length: 6
 
-Solution is written in Python language.
+Solution is written in Python language, particularly Python 2.7.
 
 To run the code:
 
-1. Download the file find_palindrome.py. 
-2. From the terminal, navigate to the folder where the file has been saved. to 
+1. Download the file `find_palindromes.py`.
+2. From the terminal, navigate to the folder where the file has been saved to.
 2. From the terminal, make the script executable, using the following command: 
 `chmod +x find_palindromes.py`
 3. Run the python function with the following command: 
