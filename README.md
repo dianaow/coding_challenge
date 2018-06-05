@@ -12,9 +12,10 @@ Solution is written in Python language.
 
 To run the code:
 
-1. Download the file find_palindrome.py
-2. In the terminal, make the script executable, using the following command: 
+1. Download the file find_palindrome.py. 
+2. From the terminal, navigate to the folder where the file has been saved. to 
+2. From the terminal, make the script executable, using the following command: 
 `chmod +x find_palindromes.py`
 3. Run the python function with the following command: 
-`python -c 'import find_palindromes; palindrome("sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop")`
+`python -c 'import find_palindromes; find_palindromes.palindromes("sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop")'`
 4. Change string input in the function and run again.
